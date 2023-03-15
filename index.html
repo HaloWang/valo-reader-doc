@@ -1,12 +1,105 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
     <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Core path</title>
+    <style>
+      /* From extension vscode.github */
+      /*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+      .vscode-dark img[src$='\#gh-light-mode-only'],
+      .vscode-light img[src$='\#gh-dark-mode-only'] {
+        display: none;
+      }
+    </style>
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css"
+    />
+    <style>
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI',
+          system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+        font-size: 14px;
+        line-height: 1.6;
+      }
+    </style>
+    <style>
+      .task-list-item {
+        list-style-type: none;
+      }
+
+      .task-list-item-checkbox {
+        margin-left: -20px;
+        vertical-align: middle;
+        pointer-events: none;
+      }
+    </style>
   </head>
-  <body>
-    <div>TEST</div>
+  <body class="vscode-body vscode-light">
+    <h1 id="core-path">Core path</h1>
+    <h2 id="首页">首页</h2>
+    <ul>
+      <li>设置</li>
+      <li>选择 pdf</li>
+      <li>输入 URL</li>
+      <li>搜索</li>
+      <li>
+        推荐阅读
+        <ul>
+          <li>firebase</li>
+          <li>MDN</li>
+          <li>Apple Developer</li>
+          <li>Android Developer</li>
+          <li>flutter docs</li>
+          <li>AGI wikipedia</li>
+          <li><strong>a pdf url</strong></li>
+        </ul>
+      </li>
+    </ul>
+    <h2 id="在-app-中选择文件">在 app 中选择文件</h2>
+    <ul>
+      <li>
+        open -&gt; select file
+        <ul>
+          <li>if -&gt; pdf -&gt; open -&gt; 🎛️</li>
+        </ul>
+      </li>
+    </ul>
+    <h2 id="在-app-中输入-url-string">在 app 中输入 url string</h2>
+    <ul>
+      <li>
+        open -&gt; parse http url string -&gt; go -&gt; 🎛️
+        <ul>
+          <li>if end with .pdf -&gt; PagePDF -&gt; 🎛️</li>
+          <li>else -&gt; PagePDF -&gt; 🎛️</li>
+        </ul>
+      </li>
+    </ul>
+    <h2 id="在-app-中输入文本">在 app 中输入文本</h2>
+    <ul>
+      <li>打开 google / 必应 / 百度</li>
+    </ul>
+    <h2 id="分享-pdf-文件至-app">分享 pdf 文件至 app</h2>
+    <ul>
+      <li>
+        share extension - share to DF -&gt; open app -&gt; auto jump -&gt; 🎛️
+      </li>
+    </ul>
+    <h2 id="app-自动记录上次-pdf-阅读位置">app 自动记录上次 pdf 阅读位置</h2>
+    <ul>
+      <li>
+        阅读 pdf 的过程中杀死 app 进程, 再次打开, 期望能回到原来的位置,
+        原来的缩放比例
+      </li>
+    </ul>
   </body>
 </html>
