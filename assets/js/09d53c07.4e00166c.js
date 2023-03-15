@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3254],{2259:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/fluffy-octo-robot/blog/tags/hello","allTagsPath":"/fluffy-octo-robot/blog/tags","count":2}')}}]);
