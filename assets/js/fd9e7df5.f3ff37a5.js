@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdf_doc_source=self.webpackChunkdf_doc_source||[]).push([[596],{7612:o=>{o.exports=JSON.parse('{"permalink":"/valo-reader-doc/blog/tags/motivation","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
