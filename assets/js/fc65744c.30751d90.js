@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdf_doc_source=self.webpackChunkdf_doc_source||[]).push([[894],{7995:e=>{e.exports=JSON.parse('{"label":"technical","permalink":"/valo-reader-doc/blog/tags/technical","allTagsPath":"/valo-reader-doc/blog/tags","count":1}')}}]);
