@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklanding_vr=self.webpackChunklanding_vr||[]).push([[5268],{9286:e=>{e.exports=JSON.parse('{"permalink":"/valo-reader-doc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

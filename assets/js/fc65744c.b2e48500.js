@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklanding_vr=self.webpackChunklanding_vr||[]).push([[2894],{7995:a=>{a.exports=JSON.parse('{"label":"technical","permalink":"/valo-reader-doc/blog/tags/technical","allTagsPath":"/valo-reader-doc/blog/tags","count":1,"unlisted":false}')}}]);

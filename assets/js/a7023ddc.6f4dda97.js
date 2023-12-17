@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunklanding_vr=self.webpackChunklanding_vr||[]).push([[1713],{3457:a=>{a.exports=JSON.parse('[{"label":"technical","permalink":"/blog/tags/technical","count":1},{"label":"motivation","permalink":"/blog/tags/motivation","count":1}]')}}]);
