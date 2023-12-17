@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdf_doc_source=self.webpackChunkdf_doc_source||[]).push([[498],{3701:a=>{a.exports=JSON.parse('{"label":"motivation","permalink":"/valo-reader-doc/blog/tags/motivation","allTagsPath":"/valo-reader-doc/blog/tags","count":1}')}}]);

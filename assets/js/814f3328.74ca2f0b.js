@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunklanding_vr=self.webpackChunklanding_vr||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Valo Reader for macOS \u6280\u672f\u6982\u8981","permalink":"/blog/tech_detail_macos","unlisted":false},{"title":"\u5f00\u53d1\u76ee\u7684","permalink":"/blog/motivation","unlisted":false}]}')}}]);
