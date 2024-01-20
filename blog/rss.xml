@@ -23,7 +23,7 @@
 <p>目前，你可以通过 <a href="https://apps.apple.com/cn/app/valo-reader/id6448040931" target="_blank" rel="noopener noreferrer">Mac App Store</a> 或<a href="https://your-docusaurus-site.example.com/valo-reader-doc/docs/installation">其他方式</a>来获取本程序</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="项目布局">项目布局<a href="https://your-docusaurus-site.example.com/valo-reader-doc/blog/tech_detail_macos#%E9%A1%B9%E7%9B%AE%E5%B8%83%E5%B1%80" class="hash-link" aria-label="项目布局的直接链接" title="项目布局的直接链接">​</a></h2>
 <p>下图展示了本项目的主体结构：
-<img loading="lazy" alt="project_layout" src="https://your-docusaurus-site.example.com/valo-reader-doc/assets/images/project_layout-b9e52932db96541ab24f4ed06bc28bc0.png" width="1996" height="960" class="img_ev3q"></p>
+<img loading="lazy" alt="project_layout" src="https://your-docusaurus-site.example.com/valo-reader-doc/assets/images/project_layout-1312e765b6200ad9a388148bcd8a1334.png" width="1996" height="960" class="img_ev3q"></p>
 <p>本文位于上图中的浅黄色部分，由 <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">docusaurus</a> 生成</p>
 <p>本项目的想法最早实现于在浏览器中运行的 js 脚本，你可以在 github 上看到本项目在浏览器上的早期实现及对应的<a href="https://github.com/HaloWang/english_flow#%E5%8A%9F%E8%83%BD%E5%B1%95%E7%A4%BA" target="_blank" rel="noopener noreferrer">功能展示</a>，即图中浅绿色部分</p>
 <p>而本文主要说明了上图中 macOS（浅蓝色部分）的运行方式与技术细节</p>
